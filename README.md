@@ -4,7 +4,7 @@ MachineLearing Project
 
 ## Assignment Content
 - Assignment#2 : Supervised Linear Regression
-- Assignment#3 : Supervised Regression with Multiple Variables
+- Assignment#3-b : Supervised Regression with Multiple Variables
 - Assignment#4 : Supervised Logistic Regression for Classification
 - Assignment#5-a : Supervised classification - improving capacity learning (quadratic)
 - Assignment#5-b : Supervised classification - improving capacity learning (cubic)

@@ -1,6 +1,5 @@
 # MachineLearningProject
-20-2 CAUCSE  
-MachineLearing Project
+20-2 CAUCSE MachineLearing Project
 
 ## Assignment Content
 - Assignment#2 : Supervised Linear Regression

@@ -1,5 +1,5 @@
 # MachineLearningProject
-20-2 CAUCSE MachineLearing Project
+**20-2 CAUCSE MachineLearing Project**
 <img src="https://github.com/yesoly/MachineLearningProject/blob/master/MachineLearningProject.png?raw=true" width="800px">
   
 ## Assignment Content

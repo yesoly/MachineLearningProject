@@ -1,6 +1,7 @@
 # MachineLearningProject
 20-2 CAUCSE MachineLearing Project
-
+<img src="https://github.com/yesoly/MachineLearning/blob/master/MachineLearningProject.png?raw=true" width="800px">
+  
 ## Assignment Content
 - Assignment#2 : Supervised Linear Regression
 - Assignment#3-b : Supervised Regression with Multiple Variables

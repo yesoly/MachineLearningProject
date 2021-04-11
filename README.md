@@ -1,6 +1,6 @@
 # MachineLearningProject
 20-2 CAUCSE MachineLearing Project
-<img src="https://github.com/yesoly/MachineLearning/blob/master/MachineLearningProject.png?raw=true" width="800px">
+<img src="https://github.com/yesoly/MachineLearningProject/blob/master/MachineLearningProject.png?raw=true" width="800px">
   
 ## Assignment Content
 - Assignment#2 : Supervised Linear Regression
